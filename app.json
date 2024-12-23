@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "mBoUSDiI#t_xkul1x4el5-QpbKeyj9BkO9cWo8XqsmTQySp0eYJo .",
       "required": true,
       "value": ""
     },  
@@ -93,7 +93,7 @@
     }, 
 
     "BOT_NAME": {
-      "description": " your name.",
+      "description": " 𝗣𝗡𝗚𝗢𝗟𝗗𝗘𝗡.",
       "required": true,
       "value": "MALVI MD V2"
     }, 
